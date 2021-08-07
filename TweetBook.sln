@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TweetBook", "TweetBook\TweetBook.csproj", "{C47720ED-3D73-4F50-B916-F592ABE90683}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tweekbook.IntegrationTests", "Tweekbook.IntegrationTests\Tweekbook.IntegrationTests.csproj", "{47E819D5-AFFA-44B5-BD75-8FE023990577}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TweetBook.Sdk", "Tweetbook.Sdk\TweetBook.Sdk.csproj", "{7AD5CAA1-3255-4DE9-96A4-E86EAAB74AC9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TweetBook.Sdk.Sample", "Tweetbook.Sdk.Sample\TweetBook.Sdk.Sample.csproj", "{B379DDCD-93E2-4E19-A16F-21FDF07CA36C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TweetBook.Contracts", "Tweetbook.Contracts\TweetBook.Contracts.csproj", "{D92D7D6B-CE7F-4E1F-B4D4-9E135707B539}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TweetBook.Web", "TweetBook.Web\TweetBook.Web.csproj", "{3DA2E525-3DA8-4119-9235-E4BC2EB06B77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C47720ED-3D73-4F50-B916-F592ABE90683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C47720ED-3D73-4F50-B916-F592ABE90683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C47720ED-3D73-4F50-B916-F592ABE90683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C47720ED-3D73-4F50-B916-F592ABE90683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47E819D5-AFFA-44B5-BD75-8FE023990577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E819D5-AFFA-44B5-BD75-8FE023990577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E819D5-AFFA-44B5-BD75-8FE023990577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E819D5-AFFA-44B5-BD75-8FE023990577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AD5CAA1-3255-4DE9-96A4-E86EAAB74AC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AD5CAA1-3255-4DE9-96A4-E86EAAB74AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AD5CAA1-3255-4DE9-96A4-E86EAAB74AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AD5CAA1-3255-4DE9-96A4-E86EAAB74AC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B379DDCD-93E2-4E19-A16F-21FDF07CA36C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B379DDCD-93E2-4E19-A16F-21FDF07CA36C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B379DDCD-93E2-4E19-A16F-21FDF07CA36C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B379DDCD-93E2-4E19-A16F-21FDF07CA36C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D92D7D6B-CE7F-4E1F-B4D4-9E135707B539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D92D7D6B-CE7F-4E1F-B4D4-9E135707B539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D92D7D6B-CE7F-4E1F-B4D4-9E135707B539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D92D7D6B-CE7F-4E1F-B4D4-9E135707B539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DA2E525-3DA8-4119-9235-E4BC2EB06B77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA2E525-3DA8-4119-9235-E4BC2EB06B77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA2E525-3DA8-4119-9235-E4BC2EB06B77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA2E525-3DA8-4119-9235-E4BC2EB06B77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B54BB9D9-D432-475F-89BB-41B3CCB3969F}
+	EndGlobalSection
+EndGlobal
